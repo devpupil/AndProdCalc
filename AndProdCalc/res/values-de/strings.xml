@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndProdCalc</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="produkt">Produkt:</string>
+    <string name="produkt_neu">Neu:</string>
+    <string name="material_costs">Materialkosten:</string>
+    <string name="work_time_costs">Arbeitskosten:</string>
+    <string name="ekpreis">EK-Preis:</string>
+    <string name="vkpreis">VK-Preis:</string>
+
+</resources>

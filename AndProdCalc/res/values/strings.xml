@@ -3,6 +3,10 @@
 
     <string name="app_name">AndProdCalc</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    <string name="produkt">Product:</string>
+    <string name="produkt_neu">New</string>
+	<string name="material_costs">Material Costs:</string>
+    <string name="work_time_costs">Work Time Costs:</string>
+    <string name="ekpreis">Base-Price:</string>
+    <string name="vkpreis">Sales-Price:</string>
 </resources>
